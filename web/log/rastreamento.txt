@@ -1,0 +1,38 @@
+[Terça-feira, Maio 15, 2018 BRT 05:55:29:255 pm] FazerLogin
+
+[Terça-feira, Maio 15, 2018 BRT 05:55:29:346 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:55:34:851 pm] sha@sha -> ListarPaisBuscar
+
+[Terça-feira, Maio 15, 2018 BRT 05:55:42:313 pm] sha@sha -> VisualizarPais
+
+[Terça-feira, Maio 15, 2018 BRT 05:55:52:967 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:55:59:379 pm] sha@sha -> EditarPais
+
+[Terça-feira, Maio 15, 2018 BRT 05:56:04:073 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:56:12:538 pm] sha@sha -> ListarPaisBuscar
+
+[Terça-feira, Maio 15, 2018 BRT 05:56:41:135 pm] sha@sha -> /Joap/CriarPais.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:56:53:570 pm] sha@sha -> CriarPais
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:00:386 pm] sha@sha -> ExcluirPais
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:05:521 pm] sha@sha -> ListarPaisReiniciar
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:07:656 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:08:953 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:10:202 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:11:548 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:12:154 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:20:119 pm] sha@sha -> ListarPaisBuscar
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:34:479 pm] sha@sha -> ExcluirPais
+

@@ -1,0 +1,164 @@
+[Terça-feira, Maio 15, 2018 BRT 05:55:29:255 pm] FazerLogin
+
+[Terça-feira, Maio 15, 2018 BRT 05:55:29:346 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:55:34:851 pm] sha@sha -> ListarPaisBuscar
+
+[Terça-feira, Maio 15, 2018 BRT 05:55:42:313 pm] sha@sha -> VisualizarPais
+
+[Terça-feira, Maio 15, 2018 BRT 05:55:52:967 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:55:59:379 pm] sha@sha -> EditarPais
+
+[Terça-feira, Maio 15, 2018 BRT 05:56:04:073 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:56:12:538 pm] sha@sha -> ListarPaisBuscar
+
+[Terça-feira, Maio 15, 2018 BRT 05:56:41:135 pm] sha@sha -> /Joap/CriarPais.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:56:53:570 pm] sha@sha -> CriarPais
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:00:386 pm] sha@sha -> ExcluirPais
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:05:521 pm] sha@sha -> ListarPaisReiniciar
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:07:656 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:08:953 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:10:202 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:11:548 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:12:154 pm] sha@sha -> /Joap/index.jsp
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:20:119 pm] sha@sha -> ListarPaisBuscar
+
+[Terça-feira, Maio 15, 2018 BRT 05:57:34:479 pm] sha@sha -> ExcluirPais
+
+[Quinta-feira, Maio 17, 2018 BRT 01:03:40:642 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:03:44:589 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:03:44:948 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:03:46:421 am] /css/bootstrap.min.css
+
+[Quinta-feira, Maio 17, 2018 BRT 01:03:46:428 am] /css/style.css
+
+[Quinta-feira, Maio 17, 2018 BRT 01:03:46:454 am] /js/jquery.min.js
+
+[Quinta-feira, Maio 17, 2018 BRT 01:03:46:457 am] /js/bootstrap.min.js
+
+[Quinta-feira, Maio 17, 2018 BRT 01:03:47:003 am] /css/pais.jpg
+
+[Quinta-feira, Maio 17, 2018 BRT 01:03:49:350 am] ListarPaisReiniciar
+
+[Quinta-feira, Maio 17, 2018 BRT 01:03:49:405 am] /Login.jsp
+
+[Quinta-feira, Maio 17, 2018 BRT 01:03:50:395 am] /fonts/glyphicons-halflings-regular.woff2
+
+[Quinta-feira, Maio 17, 2018 BRT 01:03:52:614 am] FazerLogin
+
+[Quinta-feira, Maio 17, 2018 BRT 01:03:52:750 am] odsdaniel@gmail.com -> /CriarPais.jsp
+
+[Quinta-feira, Maio 17, 2018 BRT 01:04:02:114 am] odsdaniel@gmail.com -> CriarPais
+
+[Quinta-feira, Maio 17, 2018 BRT 01:12:48:187 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:12:51:152 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:12:51:611 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:12:53:428 am] /css/bootstrap.min.css
+
+[Quinta-feira, Maio 17, 2018 BRT 01:12:53:496 am] /js/jquery.min.js
+
+[Quinta-feira, Maio 17, 2018 BRT 01:12:53:557 am] /css/style.css
+
+[Quinta-feira, Maio 17, 2018 BRT 01:12:53:564 am] /js/bootstrap.min.js
+
+[Quinta-feira, Maio 17, 2018 BRT 01:12:54:244 am] /css/pais.jpg
+
+[Quinta-feira, Maio 17, 2018 BRT 01:12:56:833 am] ListarPaisReiniciar
+
+[Quinta-feira, Maio 17, 2018 BRT 01:12:56:895 am] /Login.jsp
+
+[Quinta-feira, Maio 17, 2018 BRT 01:12:57:780 am] /fonts/glyphicons-halflings-regular.woff2
+
+[Quinta-feira, Maio 17, 2018 BRT 01:12:59:350 am] FazerLogin
+
+[Quinta-feira, Maio 17, 2018 BRT 01:12:59:455 am] odsdaniel@gmail.com -> /CriarPais.jsp
+
+[Quinta-feira, Maio 17, 2018 BRT 01:13:06:201 am] odsdaniel@gmail.com -> CriarPais
+
+[Quinta-feira, Maio 17, 2018 BRT 01:14:02:958 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:14:05:230 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:14:05:645 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:14:09:619 am] ListarPaisReiniciar
+
+[Quinta-feira, Maio 17, 2018 BRT 01:14:09:675 am] /Login.jsp
+
+[Quinta-feira, Maio 17, 2018 BRT 01:14:12:617 am] FazerLogin
+
+[Quinta-feira, Maio 17, 2018 BRT 01:14:12:754 am] odsdaniel@gmail.com -> /CriarPais.jsp
+
+[Quinta-feira, Maio 17, 2018 BRT 01:14:18:916 am] odsdaniel@gmail.com -> CriarPais
+
+[Quinta-feira, Maio 17, 2018 BRT 01:15:13:353 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:15:15:826 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:15:16:237 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:15:17:241 am] /css/bootstrap.min.css
+
+[Quinta-feira, Maio 17, 2018 BRT 01:15:17:309 am] /css/style.css
+
+[Quinta-feira, Maio 17, 2018 BRT 01:15:17:334 am] /js/jquery.min.js
+
+[Quinta-feira, Maio 17, 2018 BRT 01:15:17:392 am] /js/bootstrap.min.js
+
+[Quinta-feira, Maio 17, 2018 BRT 01:15:18:006 am] /css/pais.jpg
+
+[Quinta-feira, Maio 17, 2018 BRT 01:15:19:212 am] ListarPaisReiniciar
+
+[Quinta-feira, Maio 17, 2018 BRT 01:15:19:260 am] /Login.jsp
+
+[Quinta-feira, Maio 17, 2018 BRT 01:15:20:488 am] /fonts/glyphicons-halflings-regular.woff2
+
+[Quinta-feira, Maio 17, 2018 BRT 01:15:21:705 am] FazerLogin
+
+[Quinta-feira, Maio 17, 2018 BRT 01:15:21:829 am] odsdaniel@gmail.com -> /CriarPais.jsp
+
+[Quinta-feira, Maio 17, 2018 BRT 01:15:26:749 am] odsdaniel@gmail.com -> CriarPais
+
+[Quinta-feira, Maio 17, 2018 BRT 01:17:09:387 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:17:11:648 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:17:12:117 am] /
+
+[Quinta-feira, Maio 17, 2018 BRT 01:17:15:327 am] ListarPaisReiniciar
+
+[Quinta-feira, Maio 17, 2018 BRT 01:17:15:393 am] /Login.jsp
+
+[Quinta-feira, Maio 17, 2018 BRT 01:17:17:942 am] FazerLogin
+
+[Quinta-feira, Maio 17, 2018 BRT 01:17:18:080 am] odsdaniel@gmail.com -> /CriarPais.jsp
+
+[Quinta-feira, Maio 17, 2018 BRT 01:17:25:124 am] odsdaniel@gmail.com -> CriarPais
+
+[Quinta-feira, Maio 17, 2018 BRT 01:17:26:108 am] odsdaniel@gmail.com -> /css/bootstrap.min.css
+
+[Quinta-feira, Maio 17, 2018 BRT 01:17:26:198 am] odsdaniel@gmail.com -> /css/style.css
+
+[Quinta-feira, Maio 17, 2018 BRT 01:17:26:245 am] odsdaniel@gmail.com -> /js/jquery.min.js
+
+[Quinta-feira, Maio 17, 2018 BRT 01:17:26:254 am] odsdaniel@gmail.com -> /js/bootstrap.min.js
+
+[Quinta-feira, Maio 17, 2018 BRT 01:17:26:548 am] odsdaniel@gmail.com -> /css/pais.jpg
+

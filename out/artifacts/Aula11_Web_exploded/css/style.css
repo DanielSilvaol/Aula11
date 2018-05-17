@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+/*
+ * style.css
+ */
+body {
+    background-image: url(pais.jpg);
+    padding-top: 50px;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:fixed;
+  background-attachment: fixed;
+  border-bottom:5px;
+    
+}
+
+
+#cadastro{
+	text-aling:center;
+	background-color:  rgba(105,105,105,0.9);
+	border:            #999;
+	border-radius:     10px;
+	margin-left:        25%;
+    margin-top:         10%;
+	padding:           20px;
+	
+	
+}
+#carregar{
+	text-aling:center;
+	background-color:  rgba(105,105,105,0.9);
+	border:            #999;
+	border-radius:     10px;
+	margin-left:        25%;
+    margin-top:         10%;
+	padding:           20px;
+}
+.lead{
+	color:PeachPuff;
+	tex-color:white;
+}
+h3{
+	color:PeachPuff;
+	tex-color:white;
+}
+#fundo{
+	background-color:  rgba(255, 255, 255, 0.4);
+	border-radius:20px;
+}
+h2{
+	color:white;
+}
+h5{
+	color:white;
+	tex-color:#0000ff;
+}
+.form-control{
+	width: 400px;
+}
