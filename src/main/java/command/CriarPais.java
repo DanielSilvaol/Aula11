@@ -49,11 +49,7 @@ public class CriarPais implements Command {
 		
 		// instanciar o service
 
-		PaisService cs = new PaisService();
-		cs.criar(pais);
-		pais = cs.carregar(pais.getId());
-		request.setAttribute("pais", pais);
-		RequestDispatcher view = request.getRequestDispatcher("Pais.jsp");
+		RequestDispatcher view ;
 		
 		pais.setId(pId);
 		pais.setNome(pNome);

@@ -45,16 +45,17 @@ public class AlterarPais implements Command {
 		pais.setId(id);
 
 		PaisService pa = new PaisService();
-		RequestDispatcher view = null;
+		RequestDispatcher view ;
 		HttpSession session = request.getSession();
 
 		pa.atualizar(pais);
-		@SuppressWarnings("unchecked")
+
 		ArrayList<Pais> lista = (ArrayList<Pais>) session.getAttribute("lista");
 		
 		int pos = busca(pais, lista);
 		lista.remove(pos);
 		lista.add(pos, pais);
+
 		session.setAttribute("lista", lista);
 		request.setAttribute("pais", pais);
 		view = request.getRequestDispatcher("VisualizarPais.jsp");
